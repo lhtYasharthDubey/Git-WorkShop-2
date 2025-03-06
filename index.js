@@ -1,0 +1,1 @@
+console.log("Hi! Git Workshop with some different tasks.");
